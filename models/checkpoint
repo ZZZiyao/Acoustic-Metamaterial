@@ -1,2 +1,2 @@
-model_checkpoint_path: "CNN.ckpt"
-all_model_checkpoint_paths: "CNN.ckpt"
+model_checkpoint_path: "CNN_for_in.ckpt"
+all_model_checkpoint_paths: "CNN_for_in.ckpt"
